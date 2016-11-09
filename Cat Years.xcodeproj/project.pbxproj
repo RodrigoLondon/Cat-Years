@@ -14,6 +14,7 @@
 		18CD57E41BB0615F00F13F29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18CD57E21BB0615F00F13F29 /* LaunchScreen.storyboard */; };
 		18CD57EF1BB0615F00F13F29 /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CD57EE1BB0615F00F13F29 /* Cat_YearsTests.swift */; };
 		18CD57FA1BB0615F00F13F29 /* Cat_YearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CD57F91BB0615F00F13F29 /* Cat_YearsUITests.swift */; };
+		18CD58081BB0664600F13F29 /* AngryCat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18CD58071BB0664600F13F29 /* AngryCat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		18CD57F51BB0615F00F13F29 /* Cat YearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CD57F91BB0615F00F13F29 /* Cat_YearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsUITests.swift; sourceTree = "<group>"; };
 		18CD57FB1BB0615F00F13F29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18CD58071BB0664600F13F29 /* AngryCat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AngryCat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				18CD57DB1BB0615F00F13F29 /* ViewController.swift */,
 				18CD57DD1BB0615F00F13F29 /* Main.storyboard */,
 				18CD57E01BB0615F00F13F29 /* Assets.xcassets */,
+				18CD58071BB0664600F13F29 /* AngryCat.jpeg */,
 				18CD57E21BB0615F00F13F29 /* LaunchScreen.storyboard */,
 				18CD57E51BB0615F00F13F29 /* Info.plist */,
 			);
@@ -230,6 +233,7 @@
 			files = (
 				18CD57E41BB0615F00F13F29 /* LaunchScreen.storyboard in Resources */,
 				18CD57E11BB0615F00F13F29 /* Assets.xcassets in Resources */,
+				18CD58081BB0664600F13F29 /* AngryCat.jpeg in Resources */,
 				18CD57DF1BB0615F00F13F29 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
